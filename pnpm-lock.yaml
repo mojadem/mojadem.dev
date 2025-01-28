@@ -7,13 +7,6 @@ settings:
 importers:
 
   .:
-    dependencies:
-      '@fontsource-variable/outfit':
-        specifier: ^5.1.1
-        version: 5.1.1
-      '@fontsource/monaspace-neon':
-        specifier: ^5.1.0
-        version: 5.1.0
     devDependencies:
       vite:
         specifier: ^6.0.1
@@ -164,12 +157,6 @@ packages:
     engines: {node: '>=18'}
     cpu: [x64]
     os: [win32]
-
-  '@fontsource-variable/outfit@5.1.1':
-    resolution: {integrity: sha512-XuzmITw6zWt3nUINJVAk99f0TgXJ9ZCt3qERAr0t89Em6RbqQ4x6skmxsIgjzkLHVzmoqf3AzCbxvpk/kNnu5A==}
-
-  '@fontsource/monaspace-neon@5.1.0':
-    resolution: {integrity: sha512-nW56kEvbPwNHHYfouTEI6KR2BAcXhqjGc/KkQdDvC+bcpRFc9olZTBd+Jw+l8MhcbnFwX+GWE5VP8EUrAcshew==}
 
   '@rollup/rollup-android-arm-eabi@4.28.0':
     resolution: {integrity: sha512-wLJuPLT6grGZsy34g4N1yRfYeouklTgPhH1gWXCYspenKYD0s3cR99ZevOGw5BexMNywkbV3UkjADisozBmpPQ==}
@@ -408,10 +395,6 @@ snapshots:
 
   '@esbuild/win32-x64@0.24.0':
     optional: true
-
-  '@fontsource-variable/outfit@5.1.1': {}
-
-  '@fontsource/monaspace-neon@5.1.0': {}
 
   '@rollup/rollup-android-arm-eabi@4.28.0':
     optional: true

@@ -1,0 +1,15 @@
+/* monaspace-neon-latin-400-normal */
+@font-face {
+  font-family: "Monaspace Neon";
+  font-style: normal;
+  font-weight: 400;
+  src: url(/fonts/monaspace-neon-latin-400-normal.woff2) format("woff2");
+}
+
+/* outfit-latin-wght-normal */
+@font-face {
+  font-family: "Outfit Variable";
+  font-style: normal;
+  font-weight: 100 900;
+  src: url(/fonts/outfit-latin-wght-normal.woff2) format("woff2");
+}
