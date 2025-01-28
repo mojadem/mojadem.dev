@@ -1,3 +1,6 @@
+@import "@fontsource-variable/outfit";
+@import "@fontsource/monaspace-neon";
+
 body {
   background-color: #282828;
   color: #ebdbb2;
